@@ -17,6 +17,12 @@ Interactive Dashboard – Overview of key metrics: total donors, transfers, user
 Responsive Sidebar Navigation – Easy access to all system modules.
 
 🖼️ Screenshots
+
+start page 
+<img width="792" height="611" alt="image" src="https://github.com/user-attachments/assets/b83ed880-9979-40c6-994b-ed21e657638c" />
+
+
+
 1. Login Page
 <img width="1406" height="667" alt="Screenshot 2026-01-24 152552" src="https://github.com/user-attachments/assets/d178b7ab-e8c0-4fc5-8bb0-607b299f1853" />
 
