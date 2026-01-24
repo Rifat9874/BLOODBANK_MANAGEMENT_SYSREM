@@ -18,8 +18,7 @@ Responsive Sidebar Navigation – Easy access to all system modules.
 
 🖼️ Screenshots
 1. Login Page
-https://Screenshot%25202026-01-24%2520152525.png
-Secure admin login interface.
+"E:\SEMESTER\9th semester\c#\BLOOD_MANAGEMENT_SYSREM\ui desighn\Screenshot 2026-01-24 152552.png"Secure admin login interface.
 
 2. Main Dashboard
 https://Screenshot%25202026-01-24%2520153010.png
